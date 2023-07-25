@@ -1,0 +1,32 @@
+html, h1 {
+	background-color: black;
+	text-align: center;
+	color: beige
+}
+
+ul, button {
+	background-color: beige;
+	text-align: center;
+}
+
+#conents {
+	background-color: transparent;
+	text-align: center;
+	color: black;
+	font-size: 24px;
+	font-weight: 800;
+	font-family: consolas, Arial, "sans-serif";
+	text-decoration: none;
+}
+
+footer {
+	font-family: consolas, Arial, "sans-serif";
+	font-size: 16px;
+	justify-content: center;
+	bottom: 10%;
+}
+
+.github {
+	color: white;
+	text-decoration: none;
+}
